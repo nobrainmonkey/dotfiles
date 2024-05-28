@@ -4,5 +4,5 @@
 # Whitelist specific files or directories
 !.gitignore
 !nvim/
-!./kitty/
+!kitty/
 
