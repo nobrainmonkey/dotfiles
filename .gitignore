@@ -3,6 +3,7 @@
 
 # Whitelist specific files or directories
 !.gitignore
-!kitty/*
-!nvim/*
-
+!kitty/
+!kitty/**/*
+!nvim/
+!nvim/**/*
